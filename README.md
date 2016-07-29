@@ -21,6 +21,6 @@ Identify Differential Expressed Genes in DgcA null mutant and Knock-out samples 
 
 ## Differential Gene Expression
 
+  R CMD BATCH DiffExpTwoGroup.R
   
-
 ## Gene-Set Enrichment Analysis
