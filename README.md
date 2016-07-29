@@ -3,6 +3,8 @@ Identify Differential Expressed Genes in DgcA null mutant and Knock-out samples 
 
 ## Quality Control
 
+  R CMD BATCH QualityControl.R &
+
 ## Alignmnet using Tophat
 
 ## Read Count
