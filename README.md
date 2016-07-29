@@ -7,10 +7,16 @@ Identify Differential Expressed Genes in DgcA null mutant and Knock-out samples 
 
 ## Alignmnet using Tophat
 
-## Read Count
-
 ## Alignmnet Visualization
 
+   R CMD BATCH InputIGV-HtseqCount.R
+
+## Read Count
+
+  R CMD BATCH htseq-count.R
+
 ## Differential Gene Expression
+
+  
 
 ## Gene-Set Enrichment Analysis
